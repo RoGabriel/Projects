@@ -1,0 +1,1956 @@
+Archive member included because of file (symbol)
+
+C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+                              ./src/AlarmaBuzzer.o (SystemCoreClockUpdate)
+C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                              C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o) (Chip_Clock_GetClockInputHz)
+C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+                              ./src/sysinit.o (fpuInit)
+C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+                              ./src/puertos.o (Chip_GPIO_SetPinDIR)
+C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+                              ./src/sysinit.o (Chip_SystemInit)
+c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc43xx.o (__main)
+
+Allocating common symbols
+Common symbol       size              file
+
+SystemCoreClock     0x4               C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+data                0x6               ./src/lcd.o
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/AlarmaBuzzer.o
+ .text          0x00000000        0x0 ./src/AlarmaBuzzer.o
+ .data          0x00000000        0x0 ./src/AlarmaBuzzer.o
+ .bss           0x00000000        0x0 ./src/AlarmaBuzzer.o
+ .bss.i.8762    0x00000000        0x4 ./src/AlarmaBuzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/Buzzer.o
+ .text          0x00000000        0x0 ./src/Buzzer.o
+ .data          0x00000000        0x0 ./src/Buzzer.o
+ .bss           0x00000000        0x0 ./src/Buzzer.o
+ .text.delay3   0x00000000       0x38 ./src/Buzzer.o
+ .text.delay2   0x00000000       0x38 ./src/Buzzer.o
+ .debug_macro   0x00000000      0x898 ./src/Buzzer.o
+ .debug_macro   0x00000000       0x10 ./src/Buzzer.o
+ .debug_macro   0x00000000      0x12d ./src/Buzzer.o
+ .debug_macro   0x00000000      0x5b2 ./src/Buzzer.o
+ .debug_macro   0x00000000       0x10 ./src/Buzzer.o
+ .debug_macro   0x00000000       0x22 ./src/Buzzer.o
+ .debug_macro   0x00000000       0x7b ./src/Buzzer.o
+ .debug_macro   0x00000000       0x28 ./src/Buzzer.o
+ .debug_macro   0x00000000       0x3b ./src/Buzzer.o
+ .debug_macro   0x00000000       0x2d ./src/Buzzer.o
+ .debug_macro   0x00000000       0x42 ./src/Buzzer.o
+ .debug_macro   0x00000000      0xd39 ./src/Buzzer.o
+ .debug_macro   0x00000000      0x2bc ./src/Buzzer.o
+ .debug_macro   0x00000000      0x112 ./src/Buzzer.o
+ .debug_macro   0x00000000       0x11 ./src/Buzzer.o
+ .debug_macro   0x00000000       0x1e ./src/Buzzer.o
+ .debug_macro   0x00000000       0x16 ./src/Buzzer.o
+ .debug_macro   0x00000000      0x2e6 ./src/Buzzer.o
+ .debug_macro   0x00000000       0x82 ./src/Buzzer.o
+ .debug_macro   0x00000000      0x13d ./src/Buzzer.o
+ .debug_macro   0x00000000      0x198 ./src/Buzzer.o
+ .debug_macro   0x00000000       0x34 ./src/Buzzer.o
+ .debug_macro   0x00000000       0x58 ./src/Buzzer.o
+ .debug_macro   0x00000000      0x236 ./src/Buzzer.o
+ .debug_macro   0x00000000      0x572 ./src/Buzzer.o
+ .debug_macro   0x00000000       0x16 ./src/Buzzer.o
+ .debug_macro   0x00000000      0x18a ./src/Buzzer.o
+ .debug_macro   0x00000000       0x88 ./src/Buzzer.o
+ .debug_macro   0x00000000      0x1b9 ./src/Buzzer.o
+ .debug_macro   0x00000000      0x1da ./src/Buzzer.o
+ .debug_macro   0x00000000       0x40 ./src/Buzzer.o
+ .debug_macro   0x00000000       0x1c ./src/Buzzer.o
+ .debug_macro   0x00000000       0x2e ./src/Buzzer.o
+ .debug_macro   0x00000000       0x2e ./src/Buzzer.o
+ .debug_macro   0x00000000       0x22 ./src/Buzzer.o
+ .debug_macro   0x00000000      0x201 ./src/Buzzer.o
+ .debug_macro   0x00000000       0xe0 ./src/Buzzer.o
+ .debug_macro   0x00000000      0x34c ./src/Buzzer.o
+ .debug_macro   0x00000000       0xdc ./src/Buzzer.o
+ .debug_macro   0x00000000       0x94 ./src/Buzzer.o
+ .debug_macro   0x00000000       0xb8 ./src/Buzzer.o
+ .debug_macro   0x00000000       0x4c ./src/Buzzer.o
+ .debug_macro   0x00000000       0x16 ./src/Buzzer.o
+ .debug_macro   0x00000000      0x328 ./src/Buzzer.o
+ .debug_macro   0x00000000       0x3a ./src/Buzzer.o
+ .debug_macro   0x00000000       0xd0 ./src/Buzzer.o
+ .debug_macro   0x00000000       0x18 ./src/Buzzer.o
+ .debug_macro   0x00000000       0x22 ./src/Buzzer.o
+ .debug_macro   0x00000000       0x40 ./src/Buzzer.o
+ .debug_macro   0x00000000       0x34 ./src/Buzzer.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc43xx.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc43xx.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc43xx.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc43xx.o
+ .debug_macro   0x00000000      0x898 ./src/cr_startup_lpc43xx.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .debug_macro   0x00000000      0x898 ./src/crp.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/lcd.o
+ .text          0x00000000        0x0 ./src/lcd.o
+ .data          0x00000000        0x0 ./src/lcd.o
+ .bss           0x00000000        0x0 ./src/lcd.o
+ .text.lcd_gotoxy
+                0x00000000       0xdc ./src/lcd.o
+ .text.lcd_putc
+                0x00000000      0x138 ./src/lcd.o
+ .text.printf_lcd
+                0x00000000       0x34 ./src/lcd.o
+ .debug_macro   0x00000000      0x898 ./src/lcd.o
+ .debug_macro   0x00000000       0x10 ./src/lcd.o
+ .debug_macro   0x00000000      0x12d ./src/lcd.o
+ .debug_macro   0x00000000      0x5b2 ./src/lcd.o
+ .debug_macro   0x00000000       0x22 ./src/lcd.o
+ .debug_macro   0x00000000       0x7b ./src/lcd.o
+ .debug_macro   0x00000000       0x2e ./src/lcd.o
+ .debug_macro   0x00000000       0x10 ./src/lcd.o
+ .debug_macro   0x00000000       0x28 ./src/lcd.o
+ .debug_macro   0x00000000       0x3b ./src/lcd.o
+ .debug_macro   0x00000000       0x2d ./src/lcd.o
+ .debug_macro   0x00000000       0x42 ./src/lcd.o
+ .debug_macro   0x00000000      0xd39 ./src/lcd.o
+ .debug_macro   0x00000000      0x2bc ./src/lcd.o
+ .debug_macro   0x00000000      0x112 ./src/lcd.o
+ .debug_macro   0x00000000       0x11 ./src/lcd.o
+ .debug_macro   0x00000000       0x1e ./src/lcd.o
+ .debug_macro   0x00000000       0x16 ./src/lcd.o
+ .debug_macro   0x00000000      0x2e6 ./src/lcd.o
+ .debug_macro   0x00000000       0x82 ./src/lcd.o
+ .debug_macro   0x00000000      0x13d ./src/lcd.o
+ .debug_macro   0x00000000      0x198 ./src/lcd.o
+ .debug_macro   0x00000000       0x34 ./src/lcd.o
+ .debug_macro   0x00000000       0x58 ./src/lcd.o
+ .debug_macro   0x00000000      0x236 ./src/lcd.o
+ .debug_macro   0x00000000      0x572 ./src/lcd.o
+ .debug_macro   0x00000000       0x16 ./src/lcd.o
+ .debug_macro   0x00000000      0x18a ./src/lcd.o
+ .debug_macro   0x00000000       0x88 ./src/lcd.o
+ .debug_macro   0x00000000      0x1b9 ./src/lcd.o
+ .debug_macro   0x00000000      0x1da ./src/lcd.o
+ .debug_macro   0x00000000       0x40 ./src/lcd.o
+ .debug_macro   0x00000000       0x1c ./src/lcd.o
+ .debug_macro   0x00000000       0x2e ./src/lcd.o
+ .debug_macro   0x00000000       0x2e ./src/lcd.o
+ .debug_macro   0x00000000       0x22 ./src/lcd.o
+ .debug_macro   0x00000000      0x201 ./src/lcd.o
+ .debug_macro   0x00000000       0xe0 ./src/lcd.o
+ .debug_macro   0x00000000      0x34c ./src/lcd.o
+ .debug_macro   0x00000000       0xdc ./src/lcd.o
+ .debug_macro   0x00000000       0x94 ./src/lcd.o
+ .debug_macro   0x00000000       0xb8 ./src/lcd.o
+ .debug_macro   0x00000000       0x4c ./src/lcd.o
+ .debug_macro   0x00000000       0x16 ./src/lcd.o
+ .debug_macro   0x00000000      0x328 ./src/lcd.o
+ .debug_macro   0x00000000       0x3a ./src/lcd.o
+ .debug_macro   0x00000000       0xd0 ./src/lcd.o
+ .debug_macro   0x00000000       0x18 ./src/lcd.o
+ .debug_macro   0x00000000       0x22 ./src/lcd.o
+ .debug_macro   0x00000000       0x40 ./src/lcd.o
+ .debug_macro   0x00000000       0x34 ./src/lcd.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .group         0x00000000        0x8 ./src/leds.o
+ .text          0x00000000        0x0 ./src/leds.o
+ .data          0x00000000        0x0 ./src/leds.o
+ .bss           0x00000000        0x0 ./src/leds.o
+ .text.led_on   0x00000000       0x8c ./src/leds.o
+ .text.led_off  0x00000000       0x8c ./src/leds.o
+ .debug_macro   0x00000000      0x898 ./src/leds.o
+ .debug_macro   0x00000000       0x10 ./src/leds.o
+ .debug_macro   0x00000000      0x12d ./src/leds.o
+ .debug_macro   0x00000000      0x5b2 ./src/leds.o
+ .debug_macro   0x00000000       0x10 ./src/leds.o
+ .debug_macro   0x00000000       0x22 ./src/leds.o
+ .debug_macro   0x00000000       0x7b ./src/leds.o
+ .debug_macro   0x00000000       0x28 ./src/leds.o
+ .debug_macro   0x00000000       0x3b ./src/leds.o
+ .debug_macro   0x00000000       0x2d ./src/leds.o
+ .debug_macro   0x00000000       0x42 ./src/leds.o
+ .debug_macro   0x00000000      0xd39 ./src/leds.o
+ .debug_macro   0x00000000      0x2bc ./src/leds.o
+ .debug_macro   0x00000000      0x112 ./src/leds.o
+ .debug_macro   0x00000000       0x11 ./src/leds.o
+ .debug_macro   0x00000000       0x1e ./src/leds.o
+ .debug_macro   0x00000000       0x16 ./src/leds.o
+ .debug_macro   0x00000000      0x2e6 ./src/leds.o
+ .debug_macro   0x00000000       0x82 ./src/leds.o
+ .debug_macro   0x00000000      0x13d ./src/leds.o
+ .debug_macro   0x00000000      0x198 ./src/leds.o
+ .debug_macro   0x00000000       0x34 ./src/leds.o
+ .debug_macro   0x00000000       0x58 ./src/leds.o
+ .debug_macro   0x00000000      0x236 ./src/leds.o
+ .debug_macro   0x00000000      0x572 ./src/leds.o
+ .debug_macro   0x00000000       0x16 ./src/leds.o
+ .debug_macro   0x00000000      0x18a ./src/leds.o
+ .debug_macro   0x00000000       0x88 ./src/leds.o
+ .debug_macro   0x00000000      0x1b9 ./src/leds.o
+ .debug_macro   0x00000000      0x1da ./src/leds.o
+ .debug_macro   0x00000000       0x40 ./src/leds.o
+ .debug_macro   0x00000000       0x1c ./src/leds.o
+ .debug_macro   0x00000000       0x2e ./src/leds.o
+ .debug_macro   0x00000000       0x2e ./src/leds.o
+ .debug_macro   0x00000000       0x22 ./src/leds.o
+ .debug_macro   0x00000000      0x201 ./src/leds.o
+ .debug_macro   0x00000000       0xe0 ./src/leds.o
+ .debug_macro   0x00000000      0x34c ./src/leds.o
+ .debug_macro   0x00000000       0xdc ./src/leds.o
+ .debug_macro   0x00000000       0x94 ./src/leds.o
+ .debug_macro   0x00000000       0xb8 ./src/leds.o
+ .debug_macro   0x00000000       0x4c ./src/leds.o
+ .debug_macro   0x00000000       0x16 ./src/leds.o
+ .debug_macro   0x00000000      0x328 ./src/leds.o
+ .debug_macro   0x00000000       0x3a ./src/leds.o
+ .debug_macro   0x00000000       0xd0 ./src/leds.o
+ .debug_macro   0x00000000       0x18 ./src/leds.o
+ .debug_macro   0x00000000       0x22 ./src/leds.o
+ .debug_macro   0x00000000       0x40 ./src/leds.o
+ .debug_macro   0x00000000       0x34 ./src/leds.o
+ .debug_macro   0x00000000       0x28 ./src/leds.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/puertos.o
+ .text          0x00000000        0x0 ./src/puertos.o
+ .data          0x00000000        0x0 ./src/puertos.o
+ .bss           0x00000000        0x0 ./src/puertos.o
+ .debug_macro   0x00000000      0x898 ./src/puertos.o
+ .debug_macro   0x00000000       0x10 ./src/puertos.o
+ .debug_macro   0x00000000       0x10 ./src/puertos.o
+ .debug_macro   0x00000000      0x12d ./src/puertos.o
+ .debug_macro   0x00000000      0x5b2 ./src/puertos.o
+ .debug_macro   0x00000000       0x22 ./src/puertos.o
+ .debug_macro   0x00000000       0x7b ./src/puertos.o
+ .debug_macro   0x00000000       0x28 ./src/puertos.o
+ .debug_macro   0x00000000       0x3b ./src/puertos.o
+ .debug_macro   0x00000000       0x2d ./src/puertos.o
+ .debug_macro   0x00000000       0x42 ./src/puertos.o
+ .debug_macro   0x00000000      0xd39 ./src/puertos.o
+ .debug_macro   0x00000000      0x2bc ./src/puertos.o
+ .debug_macro   0x00000000      0x112 ./src/puertos.o
+ .debug_macro   0x00000000       0x11 ./src/puertos.o
+ .debug_macro   0x00000000       0x1e ./src/puertos.o
+ .debug_macro   0x00000000       0x16 ./src/puertos.o
+ .debug_macro   0x00000000      0x2e6 ./src/puertos.o
+ .debug_macro   0x00000000       0x82 ./src/puertos.o
+ .debug_macro   0x00000000      0x13d ./src/puertos.o
+ .debug_macro   0x00000000      0x198 ./src/puertos.o
+ .debug_macro   0x00000000       0x34 ./src/puertos.o
+ .debug_macro   0x00000000       0x58 ./src/puertos.o
+ .debug_macro   0x00000000      0x236 ./src/puertos.o
+ .debug_macro   0x00000000      0x572 ./src/puertos.o
+ .debug_macro   0x00000000       0x16 ./src/puertos.o
+ .debug_macro   0x00000000      0x18a ./src/puertos.o
+ .debug_macro   0x00000000       0x88 ./src/puertos.o
+ .debug_macro   0x00000000      0x1b9 ./src/puertos.o
+ .debug_macro   0x00000000      0x1da ./src/puertos.o
+ .debug_macro   0x00000000       0x40 ./src/puertos.o
+ .debug_macro   0x00000000       0x1c ./src/puertos.o
+ .debug_macro   0x00000000       0x2e ./src/puertos.o
+ .debug_macro   0x00000000       0x2e ./src/puertos.o
+ .debug_macro   0x00000000       0x22 ./src/puertos.o
+ .debug_macro   0x00000000      0x201 ./src/puertos.o
+ .debug_macro   0x00000000       0xe0 ./src/puertos.o
+ .debug_macro   0x00000000      0x34c ./src/puertos.o
+ .debug_macro   0x00000000       0xdc ./src/puertos.o
+ .debug_macro   0x00000000       0x94 ./src/puertos.o
+ .debug_macro   0x00000000       0xb8 ./src/puertos.o
+ .debug_macro   0x00000000       0x4c ./src/puertos.o
+ .debug_macro   0x00000000       0x16 ./src/puertos.o
+ .debug_macro   0x00000000      0x328 ./src/puertos.o
+ .debug_macro   0x00000000       0x3a ./src/puertos.o
+ .debug_macro   0x00000000       0xd0 ./src/puertos.o
+ .debug_macro   0x00000000       0x18 ./src/puertos.o
+ .debug_macro   0x00000000       0x22 ./src/puertos.o
+ .debug_macro   0x00000000       0x40 ./src/puertos.o
+ .debug_macro   0x00000000       0x34 ./src/puertos.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/pulsadores.o
+ .text          0x00000000        0x0 ./src/pulsadores.o
+ .data          0x00000000        0x0 ./src/pulsadores.o
+ .bss           0x00000000        0x0 ./src/pulsadores.o
+ .debug_macro   0x00000000      0x898 ./src/pulsadores.o
+ .debug_macro   0x00000000       0x1c ./src/pulsadores.o
+ .debug_macro   0x00000000       0x10 ./src/pulsadores.o
+ .debug_macro   0x00000000      0x12d ./src/pulsadores.o
+ .debug_macro   0x00000000      0x5b2 ./src/pulsadores.o
+ .debug_macro   0x00000000       0x10 ./src/pulsadores.o
+ .debug_macro   0x00000000       0x22 ./src/pulsadores.o
+ .debug_macro   0x00000000       0x7b ./src/pulsadores.o
+ .debug_macro   0x00000000       0x28 ./src/pulsadores.o
+ .debug_macro   0x00000000       0x3b ./src/pulsadores.o
+ .debug_macro   0x00000000       0x2d ./src/pulsadores.o
+ .debug_macro   0x00000000       0x42 ./src/pulsadores.o
+ .debug_macro   0x00000000      0xd39 ./src/pulsadores.o
+ .debug_macro   0x00000000      0x2bc ./src/pulsadores.o
+ .debug_macro   0x00000000      0x112 ./src/pulsadores.o
+ .debug_macro   0x00000000       0x11 ./src/pulsadores.o
+ .debug_macro   0x00000000       0x1e ./src/pulsadores.o
+ .debug_macro   0x00000000       0x16 ./src/pulsadores.o
+ .debug_macro   0x00000000      0x2e6 ./src/pulsadores.o
+ .debug_macro   0x00000000       0x82 ./src/pulsadores.o
+ .debug_macro   0x00000000      0x13d ./src/pulsadores.o
+ .debug_macro   0x00000000      0x198 ./src/pulsadores.o
+ .debug_macro   0x00000000       0x34 ./src/pulsadores.o
+ .debug_macro   0x00000000       0x58 ./src/pulsadores.o
+ .debug_macro   0x00000000      0x236 ./src/pulsadores.o
+ .debug_macro   0x00000000      0x572 ./src/pulsadores.o
+ .debug_macro   0x00000000       0x16 ./src/pulsadores.o
+ .debug_macro   0x00000000      0x18a ./src/pulsadores.o
+ .debug_macro   0x00000000       0x88 ./src/pulsadores.o
+ .debug_macro   0x00000000      0x1b9 ./src/pulsadores.o
+ .debug_macro   0x00000000      0x1da ./src/pulsadores.o
+ .debug_macro   0x00000000       0x40 ./src/pulsadores.o
+ .debug_macro   0x00000000       0x1c ./src/pulsadores.o
+ .debug_macro   0x00000000       0x2e ./src/pulsadores.o
+ .debug_macro   0x00000000       0x2e ./src/pulsadores.o
+ .debug_macro   0x00000000       0x22 ./src/pulsadores.o
+ .debug_macro   0x00000000      0x201 ./src/pulsadores.o
+ .debug_macro   0x00000000       0xe0 ./src/pulsadores.o
+ .debug_macro   0x00000000      0x34c ./src/pulsadores.o
+ .debug_macro   0x00000000       0xdc ./src/pulsadores.o
+ .debug_macro   0x00000000       0x94 ./src/pulsadores.o
+ .debug_macro   0x00000000       0xb8 ./src/pulsadores.o
+ .debug_macro   0x00000000       0x4c ./src/pulsadores.o
+ .debug_macro   0x00000000       0x16 ./src/pulsadores.o
+ .debug_macro   0x00000000      0x328 ./src/pulsadores.o
+ .debug_macro   0x00000000       0x3a ./src/pulsadores.o
+ .debug_macro   0x00000000       0xd0 ./src/pulsadores.o
+ .debug_macro   0x00000000       0x18 ./src/pulsadores.o
+ .debug_macro   0x00000000       0x22 ./src/pulsadores.o
+ .debug_macro   0x00000000       0x40 ./src/pulsadores.o
+ .debug_macro   0x00000000       0x34 ./src/pulsadores.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .text          0x00000000        0x0 ./src/sysinit.o
+ .data          0x00000000        0x0 ./src/sysinit.o
+ .bss           0x00000000        0x0 ./src/sysinit.o
+ .debug_macro   0x00000000      0x898 ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000      0x12d ./src/sysinit.o
+ .debug_macro   0x00000000      0x5b2 ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000       0x7b ./src/sysinit.o
+ .debug_macro   0x00000000       0x28 ./src/sysinit.o
+ .debug_macro   0x00000000       0x3b ./src/sysinit.o
+ .debug_macro   0x00000000       0x2d ./src/sysinit.o
+ .debug_macro   0x00000000       0x42 ./src/sysinit.o
+ .debug_macro   0x00000000      0xd39 ./src/sysinit.o
+ .debug_macro   0x00000000      0x2bc ./src/sysinit.o
+ .debug_macro   0x00000000      0x112 ./src/sysinit.o
+ .debug_macro   0x00000000       0x11 ./src/sysinit.o
+ .debug_macro   0x00000000       0x1e ./src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./src/sysinit.o
+ .debug_macro   0x00000000      0x2e6 ./src/sysinit.o
+ .debug_macro   0x00000000       0x82 ./src/sysinit.o
+ .debug_macro   0x00000000      0x13d ./src/sysinit.o
+ .debug_macro   0x00000000      0x198 ./src/sysinit.o
+ .debug_macro   0x00000000       0x34 ./src/sysinit.o
+ .debug_macro   0x00000000       0x58 ./src/sysinit.o
+ .debug_macro   0x00000000      0x236 ./src/sysinit.o
+ .debug_macro   0x00000000      0x572 ./src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./src/sysinit.o
+ .debug_macro   0x00000000      0x18a ./src/sysinit.o
+ .debug_macro   0x00000000       0x88 ./src/sysinit.o
+ .debug_macro   0x00000000      0x1b9 ./src/sysinit.o
+ .debug_macro   0x00000000      0x1da ./src/sysinit.o
+ .debug_macro   0x00000000       0x40 ./src/sysinit.o
+ .debug_macro   0x00000000       0x1c ./src/sysinit.o
+ .debug_macro   0x00000000       0x2e ./src/sysinit.o
+ .debug_macro   0x00000000       0x2e ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000      0x201 ./src/sysinit.o
+ .debug_macro   0x00000000       0xe0 ./src/sysinit.o
+ .debug_macro   0x00000000      0x34c ./src/sysinit.o
+ .debug_macro   0x00000000       0xdc ./src/sysinit.o
+ .debug_macro   0x00000000       0x94 ./src/sysinit.o
+ .debug_macro   0x00000000       0xb8 ./src/sysinit.o
+ .debug_macro   0x00000000       0x4c ./src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./src/sysinit.o
+ .debug_macro   0x00000000      0x328 ./src/sysinit.o
+ .debug_macro   0x00000000       0x3a ./src/sysinit.o
+ .debug_macro   0x00000000       0xd0 ./src/sysinit.o
+ .debug_macro   0x00000000       0x18 ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000       0x40 ./src/sysinit.o
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .text          0x00000000        0x0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .data          0x00000000        0x0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .bss           0x00000000        0x0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .text.Chip_CREG_EnableUSB0Phy
+                0x00000000       0x1c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .rodata.usbPLLSetup
+                0x00000000       0x14 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .text.Chip_USB_PllSetup
+                0x00000000       0x40 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .text.Chip_USB0_Init
+                0x00000000       0x2c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .text.Chip_USB1_Init
+                0x00000000       0x48 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x28 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0xd39 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2bc C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x112 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x11 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x1e C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2e6 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x13d C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x198 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x58 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x236 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x572 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x18a C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x88 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1da C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x201 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0xe0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x34c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0xdc C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0xd0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text          0x00000000        0x0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .data          0x00000000        0x0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .bss           0x00000000        0x0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_DisableCrystal
+                0x00000000       0x1c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_EnableMainPLL
+                0x00000000       0x1c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_MainPLLLocked
+                0x00000000       0x24 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_SetDivider
+                0x00000000       0x84 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_GetBaseClockOpts
+                0x00000000       0x80 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_EnableBaseClock
+                0x00000000       0x3c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_DisableBaseClock
+                0x00000000       0x3c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_IsBaseClockEnabled
+                0x00000000       0x44 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_EnableOpts
+                0x00000000       0x7c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_Enable
+                0x00000000       0x60 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_RTCEnable
+                0x00000000       0x28 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_Disable
+                0x00000000       0x60 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_StartPowerDown
+                0x00000000       0x20 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_ClearPowerDown
+                0x00000000       0x20 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_GetEMCRate
+                0x00000000       0x48 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_SetupPLL
+                0x00000000       0x78 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_EnablePLL
+                0x00000000       0x34 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_DisablePLL
+                0x00000000       0x34 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_GetPLLStatus
+                0x00000000       0x28 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x886 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x28 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0xd39 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2bc C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x112 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x11 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x1e C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2e6 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x13d C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x198 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x58 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x236 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x572 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x18a C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x88 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1da C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x201 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0xe0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x34c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0xdc C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0xd0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .text          0x00000000        0x0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .data          0x00000000        0x0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .bss           0x00000000        0x0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000      0x886 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x28 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000      0xd39 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .text          0x00000000        0x0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .data          0x00000000        0x0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .bss           0x00000000        0x0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .text.Chip_GPIO_SetPortDIROutput
+                0x00000000       0x34 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .text.Chip_GPIO_SetPortDIRInput
+                0x00000000       0x38 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .text.Chip_GPIO_Init
+                0x00000000       0x14 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .text.Chip_GPIO_DeInit
+                0x00000000       0x14 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .text.Chip_GPIO_WriteDirBit
+                0x00000000       0x74 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .text.Chip_GPIO_SetDir
+                0x00000000       0x60 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .text.Chip_GPIO_SetPortDIR
+                0x00000000       0x44 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000      0x886 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x28 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000      0xd39 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2bc C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000      0x112 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x11 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x1e C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2e6 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000      0x13d C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000      0x198 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x58 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000      0x236 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000      0x572 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000      0x18a C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x88 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1da C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000      0x201 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0xe0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000      0x34c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0xdc C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0xd0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .text          0x00000000        0x0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .data          0x00000000        0x0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .bss           0x00000000        0x0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .text.Chip_SetupXtalClocking
+                0x00000000       0x14 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x886 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x28 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0xd39 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2bc C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x112 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x11 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x1e C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2e6 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x13d C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x198 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x58 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x236 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x572 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x18a C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x88 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1da C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x201 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0xe0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x34c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0xdc C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0xd0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__weak__main.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlashA512       0x1a000000         0x00080000         xr
+MFlashB512       0x1b000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamLoc40         0x10080000         0x0000a000         xrw
+RamAHB32         0x20000000         0x00008000         xrw
+RamAHB16         0x20008000         0x00004000         xrw
+RamAHB_ETB16     0x2000c000         0x00004000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/AlarmaBuzzer.o
+LOAD ./src/Buzzer.o
+LOAD ./src/cr_startup_lpc43xx.o
+LOAD ./src/crp.o
+LOAD ./src/lcd.o
+LOAD ./src/leds.o
+LOAD ./src/puertos.o
+LOAD ./src/pulsadores.o
+LOAD ./src/sysinit.o
+LOAD C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a
+START GROUP
+LOAD c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a
+LOAD c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libcr_eabihelpers.a
+END GROUP
+                0x1a000000                __base_MFlashA512 = 0x1a000000
+                0x1a000000                __base_Flash = 0x1a000000
+                0x1a080000                __top_MFlashA512 = 0x1a080000
+                0x1a080000                __top_Flash = 0x1a080000
+                0x1b000000                __base_MFlashB512 = 0x1b000000
+                0x1b000000                __base_Flash2 = 0x1b000000
+                0x1b080000                __top_MFlashB512 = 0x1b080000
+                0x1b080000                __top_Flash2 = 0x1b080000
+                0x10000000                __base_RamLoc32 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x10008000                __top_RAM = 0x10008000
+                0x10080000                __base_RamLoc40 = 0x10080000
+                0x10080000                __base_RAM2 = 0x10080000
+                0x1008a000                __top_RamLoc40 = 0x1008a000
+                0x1008a000                __top_RAM2 = 0x1008a000
+                0x20000000                __base_RamAHB32 = 0x20000000
+                0x20000000                __base_RAM3 = 0x20000000
+                0x20008000                __top_RamAHB32 = 0x20008000
+                0x20008000                __top_RAM3 = 0x20008000
+                0x20008000                __base_RamAHB16 = 0x20008000
+                0x20008000                __base_RAM4 = 0x20008000
+                0x2000c000                __top_RamAHB16 = 0x2000c000
+                0x2000c000                __top_RAM4 = 0x2000c000
+                0x2000c000                __base_RamAHB_ETB16 = 0x2000c000
+                0x2000c000                __base_RAM5 = 0x2000c000
+                0x20010000                __top_RamAHB_ETB16 = 0x20010000
+                0x20010000                __top_RAM5 = 0x20010000
+
+.text_Flash2    0x1b000000        0x0
+ FILL mask 0xff
+ *(.text_Flash2*)
+ *(.text_MFlashB512*)
+ *(.text.$Flash2*)
+ *(.text.$MFlashB512*)
+ *(.rodata.$Flash2*)
+ *(.rodata.$MFlashB512*)
+
+.text           0x1a000000     0x3060
+ FILL mask 0xff
+                0x1a000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x1a000000      0x114 ./src/cr_startup_lpc43xx.o
+                0x1a000000                g_pfnVectors
+                0x1a000114                . = ALIGN (0x4)
+                0x1a000114                __section_table_start = .
+                0x1a000114                __data_section_table = .
+                0x1a000114        0x4 LONG 0x1a003060 LOADADDR (.data)
+                0x1a000118        0x4 LONG 0x10000000 ADDR (.data)
+                0x1a00011c        0x4 LONG 0x0 SIZEOF (.data)
+                0x1a000120        0x4 LONG 0x1a003060 LOADADDR (.data_RAM2)
+                0x1a000124        0x4 LONG 0x10080000 ADDR (.data_RAM2)
+                0x1a000128        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x1a00012c        0x4 LONG 0x1a003060 LOADADDR (.data_RAM3)
+                0x1a000130        0x4 LONG 0x20000000 ADDR (.data_RAM3)
+                0x1a000134        0x4 LONG 0x0 SIZEOF (.data_RAM3)
+                0x1a000138        0x4 LONG 0x1a003060 LOADADDR (.data_RAM4)
+                0x1a00013c        0x4 LONG 0x20008000 ADDR (.data_RAM4)
+                0x1a000140        0x4 LONG 0x0 SIZEOF (.data_RAM4)
+                0x1a000144        0x4 LONG 0x1a003060 LOADADDR (.data_RAM5)
+                0x1a000148        0x4 LONG 0x2000c000 ADDR (.data_RAM5)
+                0x1a00014c        0x4 LONG 0x0 SIZEOF (.data_RAM5)
+                0x1a000150                __data_section_table_end = .
+                0x1a000150                __bss_section_table = .
+                0x1a000150        0x4 LONG 0x10000000 ADDR (.bss)
+                0x1a000154        0x4 LONG 0x18 SIZEOF (.bss)
+                0x1a000158        0x4 LONG 0x10080000 ADDR (.bss_RAM2)
+                0x1a00015c        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x1a000160        0x4 LONG 0x20000000 ADDR (.bss_RAM3)
+                0x1a000164        0x4 LONG 0x0 SIZEOF (.bss_RAM3)
+                0x1a000168        0x4 LONG 0x20008000 ADDR (.bss_RAM4)
+                0x1a00016c        0x4 LONG 0x0 SIZEOF (.bss_RAM4)
+                0x1a000170        0x4 LONG 0x2000c000 ADDR (.bss_RAM5)
+                0x1a000174        0x4 LONG 0x0 SIZEOF (.bss_RAM5)
+                0x1a000178                __bss_section_table_end = .
+                0x1a000178                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x1a000178       0xcc ./src/cr_startup_lpc43xx.o
+                0x1a000178                data_init
+                0x1a0001bc                bss_init
+                0x1a0001f4                NMI_Handler
+                0x1a0001fc                HardFault_Handler
+                0x1a000204                MemManage_Handler
+                0x1a00020c                BusFault_Handler
+                0x1a000214                UsageFault_Handler
+                0x1a00021c                SVC_Handler
+                0x1a000224                DebugMon_Handler
+                0x1a00022c                PendSV_Handler
+                0x1a000234                SysTick_Handler
+                0x1a00023c                ATIMER_IRQHandler
+                0x1a00023c                I2C1_IRQHandler
+                0x1a00023c                UART1_IRQHandler
+                0x1a00023c                GPIO5_IRQHandler
+                0x1a00023c                CAN1_IRQHandler
+                0x1a00023c                USB1_IRQHandler
+                0x1a00023c                I2S0_IRQHandler
+                0x1a00023c                TIMER3_IRQHandler
+                0x1a00023c                UART0_IRQHandler
+                0x1a00023c                I2C0_IRQHandler
+                0x1a00023c                SGPIO_IRQHandler
+                0x1a00023c                FLASH_EEPROM_IRQHandler
+                0x1a00023c                ADCHS_IRQHandler
+                0x1a00023c                GPIO6_IRQHandler
+                0x1a00023c                IntDefaultHandler
+                0x1a00023c                GPIO1_IRQHandler
+                0x1a00023c                SSP0_IRQHandler
+                0x1a00023c                ADC1_IRQHandler
+                0x1a00023c                RTC_IRQHandler
+                0x1a00023c                TIMER0_IRQHandler
+                0x1a00023c                SPI_IRQHandler
+                0x1a00023c                LCD_IRQHandler
+                0x1a00023c                RIT_IRQHandler
+                0x1a00023c                TIMER1_IRQHandler
+                0x1a00023c                UART2_IRQHandler
+                0x1a00023c                GPIO2_IRQHandler
+                0x1a00023c                I2S1_IRQHandler
+                0x1a00023c                SSP1_IRQHandler
+                0x1a00023c                USB0_IRQHandler
+                0x1a00023c                GPIO3_IRQHandler
+                0x1a00023c                SCT_IRQHandler
+                0x1a00023c                SDIO_IRQHandler
+                0x1a00023c                WDT_IRQHandler
+                0x1a00023c                ADC0_IRQHandler
+                0x1a00023c                GPIO7_IRQHandler
+                0x1a00023c                SPIFI_IRQHandler
+                0x1a00023c                QEI_IRQHandler
+                0x1a00023c                ETH_IRQHandler
+                0x1a00023c                CAN0_IRQHandler
+                0x1a00023c                GINT0_IRQHandler
+                0x1a00023c                DAC_IRQHandler
+                0x1a00023c                M0SUB_IRQHandler
+                0x1a00023c                GPIO0_IRQHandler
+                0x1a00023c                DMA_IRQHandler
+                0x1a00023c                EVRT_IRQHandler
+                0x1a00023c                TIMER2_IRQHandler
+                0x1a00023c                UART3_IRQHandler
+                0x1a00023c                MCPWM_IRQHandler
+                0x1a00023c                M0APP_IRQHandler
+                0x1a00023c                GINT1_IRQHandler
+                0x1a00023c                GPIO4_IRQHandler
+                0x000002fc                . = 0x2fc
+ *fill*         0x1a000244       0xb8 ff
+                0x1a0002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x1a0002fc        0x4 ./src/crp.o
+                0x1a0002fc                CRP_WORD
+                0x1a000300                PROVIDE (__CRP_WORD_END__, .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.main     0x1a000300       0x5c ./src/AlarmaBuzzer.o
+                0x1a000300                main
+ .text.alarma_init
+                0x1a00035c       0x20 ./src/Buzzer.o
+                0x1a00035c                alarma_init
+ .text.alarma_on
+                0x1a00037c       0x14 ./src/Buzzer.o
+                0x1a00037c                alarma_on
+ .text.alarma_off
+                0x1a000390       0x14 ./src/Buzzer.o
+                0x1a000390                alarma_off
+ .text.ResetISR
+                0x1a0003a4       0xc4 ./src/cr_startup_lpc43xx.o
+                0x1a0003a4                ResetISR
+ .text.lcd_init_port
+                0x1a000468       0x50 ./src/lcd.o
+                0x1a000468                lcd_init_port
+ .text.lcd_init
+                0x1a0004b8      0x3b0 ./src/lcd.o
+                0x1a0004b8                lcd_init
+ .text.enviar_lcd
+                0x1a000868       0xd8 ./src/lcd.o
+                0x1a000868                enviar_lcd
+ .text.delay    0x1a000940       0x34 ./src/lcd.o
+                0x1a000940                delay
+ .text.leds_init
+                0x1a000974       0x98 ./src/leds.o
+                0x1a000974                leds_init
+ .text.Chip_SCU_PinMuxSet
+                0x1a000a0c       0x30 ./src/puertos.o
+ .text.Chip_SCU_PinMux
+                0x1a000a3c       0x3c ./src/puertos.o
+ .text.Chip_GPIO_ReadPortBit
+                0x1a000a78       0x34 ./src/puertos.o
+ .text.Chip_GPIO_SetPinOutHigh
+                0x1a000aac       0x30 ./src/puertos.o
+ .text.Chip_GPIO_SetPinOutLow
+                0x1a000adc       0x30 ./src/puertos.o
+ .text.port_pin
+                0x1a000b0c     0x19a4 ./src/puertos.o
+                0x1a000b0c                port_pin
+ .text.pulsadores_init
+                0x1a0024b0       0x38 ./src/pulsadores.o
+                0x1a0024b0                pulsadores_init
+ .text.estado_pulsador
+                0x1a0024e8       0x98 ./src/pulsadores.o
+                0x1a0024e8                estado_pulsador
+ .text.SystemInit
+                0x1a002580       0x28 ./src/sysinit.o
+                0x1a002580                SystemInit
+ .text.SystemCoreClockUpdate
+                0x1a0025a8       0x18 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+                0x1a0025a8                SystemCoreClockUpdate
+ .text.Chip_Clock_TestMainPLLMultiplier
+                0x1a0025c0       0x48 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_GetDivRate
+                0x1a002608       0x40 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_FindBaseClock
+                0x1a002648       0x88 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_EnableCrystal
+                0x1a0026d0       0x6c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a0026d0                Chip_Clock_EnableCrystal
+ .text.Chip_Clock_SetupMainPLLHz
+                0x1a00273c      0x128 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a00273c                Chip_Clock_SetupMainPLLHz
+ .text.Chip_Clock_SetupMainPLLMult
+                0x1a002864       0xfc C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a002864                Chip_Clock_SetupMainPLLMult
+ .text.Chip_Clock_GetMainPLLHz
+                0x1a002960       0xc0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a002960                Chip_Clock_GetMainPLLHz
+ .text.Chip_Clock_DisableMainPLL
+                0x1a002a20       0x1c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a002a20                Chip_Clock_DisableMainPLL
+ .text.Chip_Clock_GetDividerSource
+                0x1a002a3c       0x40 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a002a3c                Chip_Clock_GetDividerSource
+ .text.Chip_Clock_GetDividerDivisor
+                0x1a002a7c       0x38 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a002a7c                Chip_Clock_GetDividerDivisor
+ .text.Chip_Clock_GetClockInputHz
+                0x1a002ab4      0x140 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a002ab4                Chip_Clock_GetClockInputHz
+ .text.Chip_Clock_GetBaseClocktHz
+                0x1a002bf4       0x24 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a002bf4                Chip_Clock_GetBaseClocktHz
+ .text.Chip_Clock_SetBaseClock
+                0x1a002c18       0x9c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a002c18                Chip_Clock_SetBaseClock
+ .text.Chip_Clock_GetBaseClock
+                0x1a002cb4       0x4c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a002cb4                Chip_Clock_GetBaseClock
+ .text.Chip_Clock_GetRate
+                0x1a002d00       0x88 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a002d00                Chip_Clock_GetRate
+ .text.fpuInit  0x1a002d88       0x74 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+                0x1a002d88                fpuInit
+ .text.Chip_GPIO_SetPinDIROutput
+                0x1a002dfc       0x3c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .text.Chip_GPIO_SetPinDIRInput
+                0x1a002e38       0x40 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .text.Chip_GPIO_SetPinDIR
+                0x1a002e78       0x44 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+                0x1a002e78                Chip_GPIO_SetPinDIR
+ .text.Chip_SetupCoreClock
+                0x1a002ebc       0xb8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+                0x1a002ebc                Chip_SetupCoreClock
+ .text.Chip_SetupIrcClocking
+                0x1a002f74       0x14 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+                0x1a002f74                Chip_SetupIrcClocking
+ .text.Chip_SystemInit
+                0x1a002f88        0xc C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+                0x1a002f88                Chip_SystemInit
+ .text.__weak_main
+                0x1a002f94        0x4 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__weak__main.o)
+                0x1a002f94                __weak_main
+                0x1a002f94                __main
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.ExtRateIn
+                0x1a002f98        0x4 ./src/sysinit.o
+                0x1a002f98                ExtRateIn
+ .rodata.OscRateIn
+                0x1a002f9c        0x4 ./src/sysinit.o
+                0x1a002f9c                OscRateIn
+ .rodata.periph_to_base
+                0x1a002fa0       0x6c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .rodata        0x1a00300c        0xa C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ *fill*         0x1a003016        0x2 
+ .rodata.InitClkStates
+                0x1a003018       0x48 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+                0x1a003060                . = ALIGN (0x4)
+
+.glue_7         0x1a003060        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x1a003060        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x1a003060        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x1a003060        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x1a003060        0x0
+ .iplt          0x00000000        0x0 ./src/AlarmaBuzzer.o
+
+.rel.dyn        0x1a003060        0x0
+ .rel.iplt      0x00000000        0x0 ./src/AlarmaBuzzer.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x1a003060                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x1a003060                __exidx_end = .
+                0x1a003060                _etext = .
+
+.data_RAM2      0x10080000        0x0 load address 0x1a003060
+ FILL mask 0xff
+                0x10080000                PROVIDE (__start_data_RAM2, .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamLoc40)
+ *(.data.$RAM2*)
+ *(.data.$RamLoc40*)
+                0x10080000                . = ALIGN (0x4)
+                0x10080000                PROVIDE (__end_data_RAM2, .)
+
+.data_RAM3      0x20000000        0x0 load address 0x1a003060
+ FILL mask 0xff
+                0x20000000                PROVIDE (__start_data_RAM3, .)
+ *(.ramfunc.$RAM3)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM3*)
+ *(.data.$RamAHB32*)
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                PROVIDE (__end_data_RAM3, .)
+
+.data_RAM4      0x20008000        0x0 load address 0x1a003060
+ FILL mask 0xff
+                0x20008000                PROVIDE (__start_data_RAM4, .)
+ *(.ramfunc.$RAM4)
+ *(.ramfunc.$RamAHB16)
+ *(.data.$RAM4*)
+ *(.data.$RamAHB16*)
+                0x20008000                . = ALIGN (0x4)
+                0x20008000                PROVIDE (__end_data_RAM4, .)
+
+.data_RAM5      0x2000c000        0x0 load address 0x1a003060
+ FILL mask 0xff
+                0x2000c000                PROVIDE (__start_data_RAM5, .)
+ *(.ramfunc.$RAM5)
+ *(.ramfunc.$RamAHB_ETB16)
+ *(.data.$RAM5*)
+ *(.data.$RamAHB_ETB16*)
+                0x2000c000                . = ALIGN (0x4)
+                0x2000c000                PROVIDE (__end_data_RAM5, .)
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000        0x0 load address 0x1a003060
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _edata = .
+
+.igot.plt       0x10000000        0x0 load address 0x1a003060
+ .igot.plt      0x00000000        0x0 ./src/AlarmaBuzzer.o
+
+.bss_RAM2       0x10080000        0x0
+                0x10080000                PROVIDE (__start_bss_RAM2, .)
+ *(.bss.$RAM2*)
+ *(.bss.$RamLoc40*)
+                0x10080000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x10080000                PROVIDE (__end_bss_RAM2, .)
+
+.bss_RAM3       0x20000000        0x0
+                0x20000000                PROVIDE (__start_bss_RAM3, .)
+ *(.bss.$RAM3*)
+ *(.bss.$RamAHB32*)
+                0x20000000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x20000000                PROVIDE (__end_bss_RAM3, .)
+
+.bss_RAM4       0x20008000        0x0
+                0x20008000                PROVIDE (__start_bss_RAM4, .)
+ *(.bss.$RAM4*)
+ *(.bss.$RamAHB16*)
+                0x20008000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x20008000                PROVIDE (__end_bss_RAM4, .)
+
+.bss_RAM5       0x2000c000        0x0
+                0x2000c000                PROVIDE (__start_bss_RAM5, .)
+ *(.bss.$RAM5*)
+ *(.bss.$RamAHB_ETB16*)
+                0x2000c000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x2000c000                PROVIDE (__end_bss_RAM5, .)
+
+.bss            0x10000000       0x18
+                0x10000000                _bss = .
+ *(.bss*)
+ .bss.estado    0x10000000        0x1 ./src/AlarmaBuzzer.o
+                0x10000000                estado
+ *fill*         0x10000001        0x3 
+ .bss.audio_usb_pll_freq
+                0x10000004        0x8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ *(COMMON)
+ COMMON         0x1000000c        0x6 ./src/lcd.o
+                0x1000000c                data
+ *fill*         0x10000012        0x2 
+ COMMON         0x10000014        0x4 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+                0x10000014                SystemCoreClock
+                0x10000018                . = ALIGN (0x4)
+                0x10000018                _ebss = .
+                0x10000018                PROVIDE (end, .)
+
+.noinit_RAM2    0x10080000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamLoc40*)
+                0x10080000                . = ALIGN (0x4)
+
+.noinit_RAM3    0x20000000        0x0
+ *(.noinit.$RAM3*)
+ *(.noinit.$RamAHB32*)
+                0x20000000                . = ALIGN (0x4)
+
+.noinit_RAM4    0x20008000        0x0
+ *(.noinit.$RAM4*)
+ *(.noinit.$RamAHB16*)
+                0x20008000                . = ALIGN (0x4)
+
+.noinit_RAM5    0x2000c000        0x0
+ *(.noinit.$RAM5*)
+ *(.noinit.$RamAHB_ETB16*)
+                0x2000c000                . = ALIGN (0x4)
+
+.noinit         0x10000018        0x0
+                0x10000018                _noinit = .
+ *(.noinit*)
+                0x10000018                . = ALIGN (0x4)
+                0x10000018                _end_noinit = .
+                0x10000018                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10008000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc32 - 0x0))
+                0x53ff7242                PROVIDE (__valid_user_code_checksum, (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+OUTPUT(AlarmaBuzzer.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x4771
+ .debug_info    0x00000000      0x5d1 ./src/AlarmaBuzzer.o
+ .debug_info    0x000005d1      0x130 ./src/Buzzer.o
+ .debug_info    0x00000701      0x292 ./src/cr_startup_lpc43xx.o
+ .debug_info    0x00000993       0x3f ./src/crp.o
+ .debug_info    0x000009d2      0x727 ./src/lcd.o
+ .debug_info    0x000010f9      0x105 ./src/leds.o
+ .debug_info    0x000011fe      0x4c4 ./src/puertos.o
+ .debug_info    0x000016c2       0xe5 ./src/pulsadores.o
+ .debug_info    0x000017a7      0x5c2 ./src/sysinit.o
+ .debug_info    0x00001d69      0xa2d C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_info    0x00002796     0x13ae C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_info    0x00003b44      0x128 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_info    0x00003c6c      0x42b C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_info    0x00004097      0x6da C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+
+.debug_abbrev   0x00000000      0xe43
+ .debug_abbrev  0x00000000       0xe5 ./src/AlarmaBuzzer.o
+ .debug_abbrev  0x000000e5       0xab ./src/Buzzer.o
+ .debug_abbrev  0x00000190       0xed ./src/cr_startup_lpc43xx.o
+ .debug_abbrev  0x0000027d       0x36 ./src/crp.o
+ .debug_abbrev  0x000002b3      0x16d ./src/lcd.o
+ .debug_abbrev  0x00000420       0x93 ./src/leds.o
+ .debug_abbrev  0x000004b3      0x177 ./src/puertos.o
+ .debug_abbrev  0x0000062a       0x95 ./src/pulsadores.o
+ .debug_abbrev  0x000006bf       0xd9 ./src/sysinit.o
+ .debug_abbrev  0x00000798      0x148 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_abbrev  0x000008e0      0x2a1 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_abbrev  0x00000b81       0x84 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_abbrev  0x00000c05      0x111 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_abbrev  0x00000d16      0x12d C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+
+.debug_aranges  0x00000000      0x430
+ .debug_aranges
+                0x00000000       0x20 ./src/AlarmaBuzzer.o
+ .debug_aranges
+                0x00000020       0x40 ./src/Buzzer.o
+ .debug_aranges
+                0x00000060       0x80 ./src/cr_startup_lpc43xx.o
+ .debug_aranges
+                0x000000e0       0x18 ./src/crp.o
+ .debug_aranges
+                0x000000f8       0x50 ./src/lcd.o
+ .debug_aranges
+                0x00000148       0x30 ./src/leds.o
+ .debug_aranges
+                0x00000178       0x48 ./src/puertos.o
+ .debug_aranges
+                0x000001c0       0x28 ./src/pulsadores.o
+ .debug_aranges
+                0x000001e8       0x20 ./src/sysinit.o
+ .debug_aranges
+                0x00000208       0x40 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_aranges
+                0x00000248      0x128 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_aranges
+                0x00000370       0x20 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_aranges
+                0x00000390       0x68 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_aranges
+                0x000003f8       0x38 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+
+.debug_ranges   0x00000000      0x348
+ .debug_ranges  0x00000000       0x10 ./src/AlarmaBuzzer.o
+ .debug_ranges  0x00000010       0x30 ./src/Buzzer.o
+ .debug_ranges  0x00000040       0x70 ./src/cr_startup_lpc43xx.o
+ .debug_ranges  0x000000b0       0x40 ./src/lcd.o
+ .debug_ranges  0x000000f0       0x20 ./src/leds.o
+ .debug_ranges  0x00000110       0x38 ./src/puertos.o
+ .debug_ranges  0x00000148       0x18 ./src/pulsadores.o
+ .debug_ranges  0x00000160       0x10 ./src/sysinit.o
+ .debug_ranges  0x00000170       0x30 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_ranges  0x000001a0      0x118 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_ranges  0x000002b8       0x10 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_ranges  0x000002c8       0x58 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_ranges  0x00000320       0x28 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+
+.debug_macro    0x00000000     0x6f57
+ .debug_macro   0x00000000      0x319 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00000319      0x898 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00000bb1       0x10 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00000bc1       0x10 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00000bd1      0x12d ./src/AlarmaBuzzer.o
+ .debug_macro   0x00000cfe      0x5b2 ./src/AlarmaBuzzer.o
+ .debug_macro   0x000012b0       0x22 ./src/AlarmaBuzzer.o
+ .debug_macro   0x000012d2       0x7b ./src/AlarmaBuzzer.o
+ .debug_macro   0x0000134d       0x28 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00001375       0x3b ./src/AlarmaBuzzer.o
+ .debug_macro   0x000013b0       0x2d ./src/AlarmaBuzzer.o
+ .debug_macro   0x000013dd       0x42 ./src/AlarmaBuzzer.o
+ .debug_macro   0x0000141f      0xd39 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00002158      0x2bc ./src/AlarmaBuzzer.o
+ .debug_macro   0x00002414      0x112 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00002526       0x11 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00002537       0x1e ./src/AlarmaBuzzer.o
+ .debug_macro   0x00002555       0x16 ./src/AlarmaBuzzer.o
+ .debug_macro   0x0000256b      0x2e6 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00002851       0x82 ./src/AlarmaBuzzer.o
+ .debug_macro   0x000028d3      0x13d ./src/AlarmaBuzzer.o
+ .debug_macro   0x00002a10      0x198 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00002ba8       0x34 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00002bdc       0x58 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00002c34      0x236 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00002e6a      0x572 ./src/AlarmaBuzzer.o
+ .debug_macro   0x000033dc       0x16 ./src/AlarmaBuzzer.o
+ .debug_macro   0x000033f2      0x18a ./src/AlarmaBuzzer.o
+ .debug_macro   0x0000357c       0x88 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00003604      0x1b9 ./src/AlarmaBuzzer.o
+ .debug_macro   0x000037bd      0x1da ./src/AlarmaBuzzer.o
+ .debug_macro   0x00003997       0x40 ./src/AlarmaBuzzer.o
+ .debug_macro   0x000039d7       0x1c ./src/AlarmaBuzzer.o
+ .debug_macro   0x000039f3       0x2e ./src/AlarmaBuzzer.o
+ .debug_macro   0x00003a21       0x2e ./src/AlarmaBuzzer.o
+ .debug_macro   0x00003a4f       0x22 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00003a71      0x201 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00003c72       0xe0 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00003d52      0x34c ./src/AlarmaBuzzer.o
+ .debug_macro   0x0000409e       0xdc ./src/AlarmaBuzzer.o
+ .debug_macro   0x0000417a       0x94 ./src/AlarmaBuzzer.o
+ .debug_macro   0x0000420e       0xb8 ./src/AlarmaBuzzer.o
+ .debug_macro   0x000042c6       0x4c ./src/AlarmaBuzzer.o
+ .debug_macro   0x00004312       0x16 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00004328      0x328 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00004650       0x3a ./src/AlarmaBuzzer.o
+ .debug_macro   0x0000468a       0xd0 ./src/AlarmaBuzzer.o
+ .debug_macro   0x0000475a       0x18 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00004772       0x22 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00004794       0x40 ./src/AlarmaBuzzer.o
+ .debug_macro   0x000047d4       0x82 ./src/AlarmaBuzzer.o
+ .debug_macro   0x00004856       0x34 ./src/AlarmaBuzzer.o
+ .debug_macro   0x0000488a       0x1c ./src/AlarmaBuzzer.o
+ .debug_macro   0x000048a6       0x28 ./src/AlarmaBuzzer.o
+ .debug_macro   0x000048ce       0x2e ./src/AlarmaBuzzer.o
+ .debug_macro   0x000048fc       0x10 ./src/AlarmaBuzzer.o
+ .debug_macro   0x0000490c      0x2e3 ./src/Buzzer.o
+ .debug_macro   0x00004bef       0x1d ./src/cr_startup_lpc43xx.o
+ .debug_macro   0x00004c0c       0x1a ./src/crp.o
+ .debug_macro   0x00004c26       0x34 ./src/crp.o
+ .debug_macro   0x00004c5a      0x2e6 ./src/lcd.o
+ .debug_macro   0x00004f40      0x2e2 ./src/leds.o
+ .debug_macro   0x00005222      0x2f7 ./src/puertos.o
+ .debug_macro   0x00005519      0x2e2 ./src/pulsadores.o
+ .debug_macro   0x000057fb      0x2d0 ./src/sysinit.o
+ .debug_macro   0x00005acb      0x2d0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00005d9b      0x886 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00006621      0x2d6 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x000068f7       0xc0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x000069b7      0x2d0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_macro   0x00006c87      0x2d0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+
+.debug_line     0x00000000     0x5195
+ .debug_line    0x00000000      0x6bc ./src/AlarmaBuzzer.o
+ .debug_line    0x000006bc      0x688 ./src/Buzzer.o
+ .debug_line    0x00000d44       0xfa ./src/cr_startup_lpc43xx.o
+ .debug_line    0x00000e3e       0x78 ./src/crp.o
+ .debug_line    0x00000eb6      0x77d ./src/lcd.o
+ .debug_line    0x00001633      0x66c ./src/leds.o
+ .debug_line    0x00001c9f      0xac5 ./src/puertos.o
+ .debug_line    0x00002764      0x649 ./src/pulsadores.o
+ .debug_line    0x00002dad      0x5cf ./src/sysinit.o
+ .debug_line    0x0000337c      0x636 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_line    0x000039b2      0x93d C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_line    0x000042ef      0x1fa C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_line    0x000044e9      0x687 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_line    0x00004b70      0x625 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+
+.debug_str      0x00000000    0x16c2a
+ .debug_str     0x00000000    0x15baa ./src/AlarmaBuzzer.o
+                              0x15c94 (size before relaxing)
+ .debug_str     0x00015baa       0x28 ./src/Buzzer.o
+                              0x14d79 (size before relaxing)
+ .debug_str     0x00015bd2      0x1de ./src/cr_startup_lpc43xx.o
+                               0x271b (size before relaxing)
+ .debug_str     0x00015db0       0xe9 ./src/crp.o
+                               0x2612 (size before relaxing)
+ .debug_str     0x00015e99       0x8a ./src/lcd.o
+                              0x15824 (size before relaxing)
+ .debug_str     0x00015f23       0x35 ./src/leds.o
+                              0x14d9e (size before relaxing)
+ .debug_str     0x00015f58      0x136 ./src/puertos.o
+                              0x14e86 (size before relaxing)
+ .debug_str     0x0001608e       0x3f ./src/pulsadores.o
+                              0x14d93 (size before relaxing)
+ .debug_str     0x000160cd       0x2f ./src/sysinit.o
+                              0x1574a (size before relaxing)
+ .debug_str     0x000160fc      0x2c1 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+                              0x15a0f (size before relaxing)
+ .debug_str     0x000163bd      0x5e8 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                              0x15f58 (size before relaxing)
+ .debug_str     0x000169a5       0xb5 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+                               0x9904 (size before relaxing)
+ .debug_str     0x00016a5a      0x11f C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+                              0x14e07 (size before relaxing)
+ .debug_str     0x00016b79       0xb1 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+                              0x158b7 (size before relaxing)
+
+.comment        0x00000000       0xe0
+ .comment       0x00000000       0x70 ./src/AlarmaBuzzer.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./src/Buzzer.o
+ .comment       0x00000000       0x71 ./src/cr_startup_lpc43xx.o
+ .comment       0x00000000       0x71 ./src/crp.o
+ .comment       0x00000000       0x71 ./src/lcd.o
+ .comment       0x00000000       0x71 ./src/leds.o
+ .comment       0x00000000       0x71 ./src/puertos.o
+ .comment       0x00000000       0x71 ./src/pulsadores.o
+ .comment       0x00000000       0x71 ./src/sysinit.o
+ .comment       0x00000000       0x71 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .comment       0x00000000       0x71 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .comment       0x00000000       0x71 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .comment       0x00000000       0x71 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .comment       0x00000000       0x71 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .comment       0x00000070       0x70 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__weak__main.o)
+                                 0x71 (size before relaxing)
+
+.ARM.attributes
+                0x00000000       0x37
+ .ARM.attributes
+                0x00000000       0x37 ./src/AlarmaBuzzer.o
+ .ARM.attributes
+                0x00000037       0x37 ./src/Buzzer.o
+ .ARM.attributes
+                0x0000006e       0x37 ./src/cr_startup_lpc43xx.o
+ .ARM.attributes
+                0x000000a5       0x37 ./src/crp.o
+ .ARM.attributes
+                0x000000dc       0x37 ./src/lcd.o
+ .ARM.attributes
+                0x00000113       0x37 ./src/leds.o
+ .ARM.attributes
+                0x0000014a       0x37 ./src/puertos.o
+ .ARM.attributes
+                0x00000181       0x37 ./src/pulsadores.o
+ .ARM.attributes
+                0x000001b8       0x37 ./src/sysinit.o
+ .ARM.attributes
+                0x000001ef       0x37 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .ARM.attributes
+                0x00000226       0x37 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .ARM.attributes
+                0x0000025d       0x37 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .ARM.attributes
+                0x00000294       0x37 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .ARM.attributes
+                0x000002cb       0x37 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .ARM.attributes
+                0x00000302       0x37 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__weak__main.o)
+
+.debug_frame    0x00000000      0xd50
+ .debug_frame   0x00000000       0x2c ./src/AlarmaBuzzer.o
+ .debug_frame   0x0000002c       0xb4 ./src/Buzzer.o
+ .debug_frame   0x000000e0      0x170 ./src/cr_startup_lpc43xx.o
+ .debug_frame   0x00000250      0x100 ./src/lcd.o
+ .debug_frame   0x00000350       0x74 ./src/leds.o
+ .debug_frame   0x000003c4      0x100 ./src/puertos.o
+ .debug_frame   0x000004c4       0x50 ./src/pulsadores.o
+ .debug_frame   0x00000514       0x34 ./src/sysinit.o
+ .debug_frame   0x00000548       0xa0 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_frame   0x000005e8      0x50c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_frame   0x00000af4       0x38 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_frame   0x00000b2c      0x198 C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(gpio_18xx_43xx.o)
+ .debug_frame   0x00000cc4       0x8c C:\Users\Leo\Documents\LPCXpresso_8.0.0_526\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
